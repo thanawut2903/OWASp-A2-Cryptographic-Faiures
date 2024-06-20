@@ -66,3 +66,9 @@
 
 
 Video การทำ Crypto Basics : https://www.youtube.com/watch?v=9lQJa4zHRYM
+
+Base64 Encoding : https://gchq.github.io/CyberChef/
+
+XOR encoding : https://strelitzia.net/wasXORdecoder/wasXORdecoder.html
+
+Plain Hashing : https://hashes.com/en/decrypt/hash
